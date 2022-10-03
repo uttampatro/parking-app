@@ -79,9 +79,9 @@ function AddUser() {
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                   fullWidth
-                  label="Name"
-                  name="Name"
-                  autoComplete="Name"
+                  label="Driver Name"
+                  name="Driver Name"
+                  autoComplete="Driver Name"
                 />
               </Grid>
               <Grid item xs={12}>
