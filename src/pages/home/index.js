@@ -112,7 +112,7 @@ function Home() {
         <Table className={classes.table}>
           <TableHead>
             <TableRow className={classes.thead}>
-              <TableCell>Name</TableCell>
+              <TableCell>Driver Name</TableCell>
               <TableCell>Vehicle Number</TableCell>
               <TableCell></TableCell>
             </TableRow>
